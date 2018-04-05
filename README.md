@@ -1,2 +1,7 @@
-# JASUSEONGGA
-For Self-ownership application
+#SMER 
+Sweet 
+Memory
+Enjoy 
+Recipe
+
+For live apart from house people Application. 
